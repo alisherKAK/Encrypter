@@ -1,0 +1,9 @@
+S:\VisualStudio\C#\Encrypt\Encrypt\bin\Debug\Encrypt.exe.config
+S:\VisualStudio\C#\Encrypt\Encrypt\bin\Debug\Encrypt.exe
+S:\VisualStudio\C#\Encrypt\Encrypt\bin\Debug\Encrypt.pdb
+S:\VisualStudio\C#\Encrypt\Encrypt\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+S:\VisualStudio\C#\Encrypt\Encrypt\obj\Debug\Encrypt.csproj.CoreCompileInputs.cache
+S:\VisualStudio\C#\Encrypt\Encrypt\obj\Debug\Encrypt.csproj.CopyComplete
+S:\VisualStudio\C#\Encrypt\Encrypt\obj\Debug\Encrypt.exe
+S:\VisualStudio\C#\Encrypt\Encrypt\obj\Debug\Encrypt.pdb
+S:\VisualStudio\C#\Encrypt\Encrypt\obj\Debug\Encrypt.csprojAssemblyReference.cache
